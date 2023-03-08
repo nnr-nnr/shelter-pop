@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shelter-pop/static/css/main.d3500fdf.css",
+    "main.js": "/shelter-pop/static/js/main.6fdf4c76.js",
+    "index.html": "/shelter-pop/index.html",
+    "main.d3500fdf.css.map": "/shelter-pop/static/css/main.d3500fdf.css.map",
+    "main.6fdf4c76.js.map": "/shelter-pop/static/js/main.6fdf4c76.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3500fdf.css",
+    "static/js/main.6fdf4c76.js"
+  ]
+}
