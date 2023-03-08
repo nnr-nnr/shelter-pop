@@ -20,7 +20,7 @@ export default function GeneratedImage({ genImgURI }) {
         />
       ) : (
         <>
-          <div
+          <img
             style={{
               width: "512px",
               height: "512px",
@@ -28,7 +28,7 @@ export default function GeneratedImage({ genImgURI }) {
             }}
             alt={"DALLE-generated illustration"}
             src={genImgURI}
-          ></div>
+          />
           <br></br>
           <a href={genImgURI} download target="_blank" rel="noreferrer">
             <Button
