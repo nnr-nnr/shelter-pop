@@ -2,9 +2,17 @@
   text-align: center;
 }
 
+.MuiGrid-root {
+  /* border: 0.5pt red dashed; */
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+
+a {
+  text-decoration: none !important;
 }
 
 @media (prefers-reduced-motion: no-preference) {
