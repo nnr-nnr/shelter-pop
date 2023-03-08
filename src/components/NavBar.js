@@ -11,13 +11,11 @@ export default function NavBar() {
         <Typography variant="subtitle1">
           Shelter animals' intake photos rarely flatter them 🪞, and rescues
           don't always have the time and resources to update these photos and
-          get their best angle 📸. That's where ✨Shelter Pop✨ comes in. In
-          just a couple of minutes, you can create images 🖼️ to help potential
-          adopters better see these animals' personalities 🎭 and envision them
-          in their (or your 👀) home 🙌 with{" "}
-          <a href="https://openai.com/product/dall-e-2">
-            OpenAI's DALL•E {/* </Typography> */}
-          </a>
+          get their best angle 📸. That's where ✨Shelter Pop✨ comes in. In a
+          few seconds, you can create images 🖼️ to help potential adopters
+          better see these animals' personalities 🎭 and envision them in their
+          (or your 👀) home 🙌 with{" "}
+          <a href="https://openai.com/product/dall-e-2">OpenAI's DALL•E</a>
           🧠💫.
         </Typography>
       </header>

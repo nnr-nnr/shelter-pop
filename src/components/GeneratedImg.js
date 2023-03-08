@@ -21,6 +21,7 @@ export default function GeneratedImage({ genImgURI }) {
       ) : (
         <>
           <img
+            className="DALLEimage"
             style={{
               width: "512px",
               height: "512px",
